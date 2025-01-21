@@ -1,0 +1,32 @@
+name: Deploy Hugo to GitHub Pages
+
+on:
+  push:
+    branches:
+      - main # Executa o workflow quando houver push na branch `main`.
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest # O workflow será executado em um ambiente Ubuntu.
+
+    steps:
+      # 1. Faz o checkout do código do repositório.
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      # 2. Configura o Hugo (instala a versão necessária para gerar o site).
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: 'latest' # Instala a última versão do Hugo.
+
+      # 3. Gera o site estático (cria os arquivos na pasta `public`).
+      - name: Build website
+        run: hugo --minify # Minifica os arquivos gerados para otimizar o site.
+
+      # 4. Publica o conteúdo gerado na branch `gh-pages` (usada pelo GitHub Pages).
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }} # Token de autenticação gerado automaticamente.
+          publish_dir: ./public # Pasta onde o Hugo gera os arquivos estáticos.
