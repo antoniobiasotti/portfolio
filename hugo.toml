@@ -1,7 +1,11 @@
-baseURL = "https://antonio.github.io/portfolio/"
+baseURL = "/"
 languageCode = 'en-us'
 title = 'Antônio Biasotti'
 theme = 'typo'
+
+relativeURLs = true
+canonifyURLs = true
+
 
 [taxonomies]
 tag = 'tags'
