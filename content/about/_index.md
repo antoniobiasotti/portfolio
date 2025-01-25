@@ -4,17 +4,16 @@ layout: single
 ---
 ![Minha Foto](/me.jpg#light#about-img)
 
-I got a Bachelor’s degree from the University of Trent com previsão para concluir em julho desse ano. No momento, eu estou empenhado em concluir a minha monografia e aplicar os conhecimentos que adquiri ao longo desses 4 anos em uma nova experiência profissional.
+Minha missão é usar dados a resolver problemas reais de negócios. Aplicando o método e minhas habilidades posso
 
-Durante minha jornada acadêmica, desenvolvi projetos que exploram machine learning e análise de dados.Meu interesse cresceu por sistemas distribuídos, bancos de dados, ciência de dados e inteligência artificial. 
+Durante minha jornada acadêmica cresceu meu interesse por sistemas distribuídos, banco de dados, ciência de dados e inteligência artificial. 
+
+Desenvolvi sistemas profissionais que exploram desde desenvolvimento web até machine learning e análise de dados. 
 
 Minha missão é usar dados para criar soluções práticas e gerar impacto positivo em negócios. Estou em busca de uma oportunidade como Analista ou Cientista de Dados Júnior, onde possa colaborar com uma equipe inovadora e continuar crescendo na área de dados.
 
 Aqui está meu CV.
 ## Experiência
-**Freelancer**  
-*Web Developer*  
-
 
 **Digte LTDA**   
 *Analista de Sistemas*  
