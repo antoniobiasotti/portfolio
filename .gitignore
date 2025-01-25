@@ -1,0 +1,12 @@
+# Ignorar a pasta public
+/public/
+
+# Outros arquivos gerados pelo Hugo
+/resources/_gen/
+/assets/jsconfig.json
+hugo_stats.json
+
+# Ignorar executáveis do Hugo (se houver)
+hugo.exe
+hugo.darwin
+hugo.linux
