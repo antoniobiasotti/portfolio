@@ -6,7 +6,6 @@ theme = 'typo'
 relativeURLs = true
 canonifyURLs = true
 
-
 [taxonomies]
 tag = 'tags'
 
