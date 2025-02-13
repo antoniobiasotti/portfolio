@@ -1,4 +1,4 @@
-baseURL = 'https://antoniobiasotti.github.io/portfolio/'
+baseURL = '/'
 languageCode = 'en-us'
 title = 'Antônio Biasotti'
 theme = 'typo'
@@ -11,7 +11,7 @@ tag = 'tags'
 
 # Google analytics code
 googleAnalytics = "G-xxxxxxxxx"
-
+                        
 [params]
 hideBackToTop = false
 #Custom CSS
