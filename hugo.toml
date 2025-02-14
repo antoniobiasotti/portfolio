@@ -1,4 +1,4 @@
-baseURL = '/'
+baseURL = 'https://antoniobiasotti.github.io'
 languageCode = 'en-us'
 title = 'Antônio Biasotti'
 theme = 'typo'
@@ -90,13 +90,28 @@ style = 'algol'
     [markup.goldmark.renderer]
       unsafe = true
 
-# Giscus comments
+# Deploy settings
+
+[[deployment.matchers]]
+pattern = "^.+\\.(js|css|svg|ttf|woff2)$"
+cacheControl = "max-age=31536000, no-transform, public"
+gzip = true
+
+[[deployment.matchers]]
+pattern = "^.+\\.(png|jpg|gif|webp)$"
+cacheControl = "max-age=31536000, no-transform, public"
+gzip = false
+
 [params.giscus]
 enable = false
-repo = "user/repo"
-repoid = "repoId"
+repo = "tomfran/blog"
+repoid = "R_kgDOLtSszw"
 category = "General"
-categoryid = "categoryId"
+categoryid = "DIC_kwDOLtSsz84CfLm4"
 mapping = "pathname"
 theme = "preferred_color_scheme"
 
+[params.umami]
+enable = true
+websiteId = "cc219028-551e-4f3b-bbc7-e124ca907ce0"
+jsLocation = "https://cloud.umami.is/script.js"
