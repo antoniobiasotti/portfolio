@@ -1,1 +1,1 @@
-Personal Blog
+Personal Blog with Hugo
