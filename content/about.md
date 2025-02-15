@@ -1,49 +1,36 @@
 ---
-title: "About"
-description: "A description of Francesco Tomaselli, an Italian software engineer."
+title: "Sobre"
+description: "A description of Antônio Biasotti."
 hideBackToTop: false
 hidePagination: true
 ---
+{{< figure src="https://github.com/antoniobiasotti.png" class="about-img">}}
 
-I got a Bachelor’s degree from the [University of Trento](https://www.unitn.it/), and my 
-Master’s degree from the [University of Milan](https://www.unimi.it/). Currently, 
-I work as a Software Engineer at [Amazon](https://www.amazon.jobs/teams/aft) Berlin.
+No momento, eu estou empenhado em concluir a minha monografia.
 
-During my studies, I gained a lot of interest in algorithms and data structures, as well as 
-distributed systems, databases, and search engines. I explored those topics with my master’s 
-thesis on [graph compression](https://github.com/tomfran/ANS-Graph-compression), and with side 
-projects on [LSM tree](https://github.com/tomfran/LSM-Tree) and [search engine](https://github.com/tomfran/search-rs) 
-implementations.
+Durante minha jornada acadêmica, desenvolvi projetos que exploram machine learning e análise de dados, meu interesse cresceu por sistemas distribuídos, bancos de dados, ciência de dados e inteligência artificial.
 
-I had the opportunity of being a contestant at [SWERC](https://swerc.eu/), a team competitive 
-programming competition, in 2020 and 2022, also, I liked to participate in 
-[Google Hashcode](https://en.wikipedia.org/wiki/Hash_Code_(programming_competition)) every time 
-I got the chance.
+Minha missão é usar dados para criar soluções práticas e gerar impacto positivo em negócios. Estou em busca de uma oportunidade como Analista ou Cientista de Dados Júnior, onde possa colaborar com uma equipe inovadora e continuar crescendo na área de dados.
 
-In my free time, I like to practice calisthenics and improve my cooking. I also [read](/library) 
-occasionally but not as much as I should.
+## Experiência
 
-## Experience
+**Freelancer** \
+*Web Developer* 
 
-**Amazon** \
-*Software Development Engineer II* \
-Jul. '24 - Today | Berlin
+**Digte LTDA** \
+*Project Analist* \
+Fev. '23 - Fev. '24 | São Paulo, SP
 
-**Satispay** \
-*Software Engineer* \
-Jan. '23 - Jun. '24 | Milan
+## Educação
 
-**Spaziodati** \
-*Software Engineer Intern* \
-Feb. '20 - Jun. '20 | Trento
+**Colégio Marista Arquidiciocesano** \
+2008 - 2019
 
-## Education
+**Columbia International College** \
+*Exchange Program* \
+Jun. '17 - Jul. '17 | 
 
-**Università degli Studi di Milano** \
-*Master of Science in Computer Science* \
-Sep. '20 - Sep. '22 | Milan
-
-**Università di Trento** \
-*Bachelor of Science in Computer Science* \
-Sep. '17 - Jul. '20 | Trento
+**Universidade Presbiteriana Mackenzie** \
+*Graduação em Sistemas de Informação* \
+2021 - 
 

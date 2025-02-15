@@ -1,6 +1,6 @@
-baseURL = 'https://tomfran.github.io'
+baseURL = 'https://antoniobiasotti.github.io'
 languageCode = 'en-us'
-title = 'Francesco Tomaselli'
+title = 'Antônio Biasotti'
 theme = 'typo'
 
 [taxonomies]
@@ -8,19 +8,21 @@ tag = 'tags'
 
 [params]
 # Home meta description
-description = "A tech-oriented personal blog curated by Francesco Tomaselli."
+description = "A tech-oriented personal blog curated by Antônio Biasotti."
 
 # Appearance settings
-theme = 'auto'
+theme = 'light'
 colorPalette = 'default'
 hideHeader = false
 
 # Intro on main page, content in markdown
-homeIntroTitle = 'Hi!'
+homeIntroTitle = ''
 homeIntroContent = """
-I am an Italian Software Engineer with a strong foundation in computer science and a passion for solving complex problems.
-I am interested in a various topics, including algorithms, distributed systems, databases, and information retrieval. \\
-Feel free to read [about myself](/about) or to look at my [posts](/posts).
+Sou um estudante de Sistemas de Informação
+apaixonado por Ciência de Dados e Inteligência Artificial. No momento escrevo minha tese, um framework estratégico para Governança de IA no Brasil
+que garanta segurança jurídica e liberdade econômica.
+
+Fique à vontade para se conectar ou ler meus [posts](/posts).
 """
 
 
@@ -44,32 +46,28 @@ showFooter = true
 # Social icons
 [[params.social]]
 name = "linkedin"
-url = "https://www.linkedin.com/in/tomaselli-/"
-
-[[params.social]]
-name = "medium"
-url = "https://medium.com/@tomfran"
+url = "https://www.linkedin.com/in/antonio-biasotti/"
 
 [[params.social]]
 name = "github"
-url = "https://github.com/tomfran"
+url = "https://github.com/antoniobiasotti"
 
 # Main menu pages
 [[params.menu]]
-name = "home"
+name = "Home"
 url = "/"
 
 [[params.menu]]
-name = "posts"
-url = "/posts"
-
-[[params.menu]]
-name = "about"
+name = "About"
 url = "/about"
 
 [[params.menu]]
-name = "library"
-url = "/library"
+name = "Coursework"
+url = "/coursework"
+
+[[params.menu]]
+name = "Posts"
+url = "/posts"
 
 # [[params.menu]]
 # name = "tags"
