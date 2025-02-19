@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Antônio Biasotti</title>
+    <link>http://localhost:1313/portfolio/</link>
+    <description>Recent content in Home on Antônio Biasotti</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 20 May 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Controlling Images with tags in Hugo</title>
+      <link>http://localhost:1313/portfolio/posts/hugo-images/</link>
+      <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/portfolio/posts/hugo-images/</guid>
+      <description>GitHub-like image control with Hugo using tags, supporting theme switching, and size adjustments.</description>
+    </item>
+    <item>
+      <title>Probabilistic to-visit Queue</title>
+      <link>http://localhost:1313/portfolio/posts/prob-queue/</link>
+      <pubDate>Thu, 16 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/portfolio/posts/prob-queue/</guid>
+      <description>A probabilistic collection leveraging Bloom Filters to store a set of 1 billion visited URLs in 18mb.</description>
+    </item>
+    <item>
+      <title>Search Engine in Rust</title>
+      <link>http://localhost:1313/portfolio/posts/search-engine/</link>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/portfolio/posts/search-engine/</guid>
+      <description>A search engine overview and Rust implementation, supporting free and boolean ranked queries, efficient disk and memory usage, and spelling correction.</description>
+    </item>
+    <item>
+      <title>Log-Structured Merge Tree</title>
+      <link>http://localhost:1313/portfolio/posts/lsm/</link>
+      <pubDate>Sun, 12 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/portfolio/posts/lsm/</guid>
+      <description>An LSM Tree overview and Java implementation, with a Skiplist, SStables, and background compaction from scratch.</description>
+    </item>
+    <item>
+      <title>Coursework</title>
+      <link>http://localhost:1313/portfolio/coursework/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/portfolio/coursework/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;Desenvolvimento de Sistemas I&lt;/li&gt;&#xA;&lt;li&gt;Desenvolvimento de Sistemas II&lt;/li&gt;&#xA;&lt;li&gt;Ciência de Dados&lt;/li&gt;&#xA;&lt;li&gt;Inteligência Artificial&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Library</title>
+      <link>http://localhost:1313/portfolio/library/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/portfolio/library/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://dataintensive.net/&#34;&gt;Designing Data-Intensive Applications&lt;/a&gt; &lt;br&gt;&#xA;Excellent book about many distributed systems concepts, databases, and big data processing ideas.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.databass.dev/&#34;&gt;Database Internals&lt;/a&gt; &lt;br&gt;&#xA;Deep dive into database concepts that the first book only touches briefly, like data organization on disk, log-structured databases, and so on. It also covers distributed systems.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://samnewman.io/books/building_microservices_2nd_edition/&#34;&gt;Building Microservices&lt;/a&gt; &lt;br&gt;&#xA;Concepts tied to developing independent services rather than huge monoliths. Touches testing, CI/CD, communication styles and so on.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://nlp.stanford.edu/IR-book/information-retrieval-book.html&#34;&gt;Introduction to information retrieval&lt;/a&gt; &lt;br&gt;&#xA;How search engines work, how they are built and maintained. Also covers web crawling.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Sobre</title>
+      <link>http://localhost:1313/portfolio/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/portfolio/about/</guid>
+      <description>&lt;figure class=&#34;about-img&#34;&gt;&lt;img src=&#34;https://github.com/antoniobiasotti.png&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;No momento, eu estou empenhado em concluir a minha monografia.&lt;/p&gt;&#xA;&lt;p&gt;Durante minha jornada acadêmica, desenvolvi projetos que exploram machine learning e análise de dados, meu interesse cresceu por sistemas distribuídos, bancos de dados, ciência de dados e inteligência artificial.&lt;/p&gt;&#xA;&lt;p&gt;Minha missão é usar dados para criar soluções práticas e gerar impacto positivo em negócios. Estou em busca de uma oportunidade como Analista ou Cientista de Dados Júnior, onde possa colaborar com uma equipe inovadora e continuar crescendo na área de dados.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
