@@ -1,7 +1,4 @@
 [submodule "themes/typo"]
 	path = themes/typo
 	url = https://github.com/tomfran/typo.git
-[submodule "public"]
-	path = public
-	url = git@github.com:antoniobiasotti/portfolio.git
-	branch = gh-pages
+

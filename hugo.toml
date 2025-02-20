@@ -1,4 +1,4 @@
-baseURL = 'https://antoniobiasotti.github.io/portfolio'
+baseURL = 'https://antoniobiasotti.github.io/'
 languageCode = 'en-us'
 title = 'Antônio Biasotti'
 theme = 'typo'
@@ -54,19 +54,19 @@ url = "https://github.com/antoniobiasotti"
 
 # Main menu pages
 [[params.menu]]
-name = "Home"
+name = "home"
 url = "/"
 
 [[params.menu]]
-name = "About"
+name = "about"
 url = "/about"
 
 [[params.menu]]
-name = "Coursework"
+name = "coursework"
 url = "/coursework"
 
 [[params.menu]]
-name = "Posts"
+name = "posts"
 url = "/posts"
 
 # [[params.menu]]
